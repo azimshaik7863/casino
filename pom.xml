@@ -52,7 +52,7 @@
   </dependencies>
 
   <build>
-    <finalName>JagadishCasino</finalName>
+    <finalName>azimcasino</finalName>
     <pluginManagement>
       <plugins>
         <plugin>
